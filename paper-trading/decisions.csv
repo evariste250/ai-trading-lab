@@ -1,0 +1,2 @@
+date,ticker,rating,reference_price,time_horizon,warning_level,thesis_level,report_path,status
+2026-11-02,AAPL,OVERWEIGHT,344.63,3-6 months,342.084,333.00,reports/AAPL/2026-11-02/final_trade_decision.md,RECORDED
