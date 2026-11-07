@@ -1,0 +1,16 @@
+{
+  "ticker": "MSFT",
+  "analysis_date": "2026-11-06",
+  "rating": "OVERWEIGHT",
+  "status": "WAITING_FOR_ENTRY",
+  "reference_close": 530.609985,
+  "entry_trigger": 531.41,
+  "confirmation_low": 535.93,
+  "confirmation_high": 538.30,
+  "risk_pause": 516.65,
+  "warning_level": 511.49,
+  "stop_level": 507.12,
+  "price_target": 555.80,
+  "time_horizon": "3-6 months",
+  "paper_allocation_usd": 1000
+}

@@ -2,15 +2,8 @@
   "experiment_name": "TradingAgents Paper Portfolio",
   "currency": "USD",
   "starting_cash": 10000.0,
-  "cash": 9000.0,
-  "positions": {
-    "AAPL": {
-      "quantity": 2.90166265,
-      "average_cost": 344.63,
-      "opened_date": "2026-11-02",
-      "last_action_date": "2026-11-02"
-    }
-  },
+  "cash": 10000.0,
+  "positions": {},
   "watchlist": [
     "AAPL",
     "MSFT",

@@ -1,2 +1,1 @@
 trade_id,date,ticker,action,quantity,price,trade_value,cash_after,source,rating,notes
-89e688a3,2026-11-02,AAPL,BUY,2.90166265,344.6300,1000.00,9000.00,TradingAgents,OVERWEIGHT,Initial 10 percent simulated starter allocation from TradingAgents decision
